@@ -13,4 +13,11 @@ A business website I created as my first freelancing work for a Vadodara-based h
 
 ## Screenshots
 
+### Home Page
+![Home Page](images/ss_1.png)
 
+### Service Page
+![Service Page](images/ss_2.png)
+
+### About page
+![About Page](images/ss_3.png)
